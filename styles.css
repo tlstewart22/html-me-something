@@ -1,0 +1,55 @@
+body {
+    margin: 20px 15% 10px 15px ;
+    background-color: darkolivegreen;
+    
+}
+
+article {
+    padding: 5px 10px 5px 10px;
+    background-color: #6B5B95;
+    margin-right: 15%;
+}
+p, h1 {
+    background-color: lightgray;
+    margin-right: 25%;
+    padding: 10px 10px 10px 10px;
+}
+
+p {
+    padding: 10px 25px 10px 25px;
+    font-size: medium;
+}
+
+p.para1{
+    margin-left: 5%;
+}
+
+p.para2{
+    margin-left: 10%;
+}
+
+p.para3{
+    margin-left: 15%;
+}
+
+p.para4{
+    margin-left: 20%;
+}
+
+.boldFace {
+    color: #6B5B95;
+}
+
+img {
+    border: 2.5px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    width: 75px;
+    margin-left: 75%;
+}
+
+footer {
+    margin-right: 15%;
+    background-color: lightgray;
+    column-count: 2;    
+}
