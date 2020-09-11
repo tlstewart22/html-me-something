@@ -9,12 +9,15 @@ article {
     background-color: #6B5B95;
     margin-right: 15%;
 }
-p, h1 {
+p, header {
     background-color: lightgray;
     margin-right: 25%;
     padding: 10px 10px 10px 10px;
 }
-
+header {
+    font-size: x-large;
+    font-weight: bolder;
+}
 p {
     padding: 10px 25px 10px 25px;
     font-size: medium;
@@ -38,6 +41,7 @@ p.para4{
 
 .boldFace {
     color: #6B5B95;
+    font-weight: bolder;
 }
 
 img {
